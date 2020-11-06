@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=sampleSolution
+comment1.params=other
+comment1.target=int\ compareTo(sampleSolution)
+comment2.params=other
+comment2.target=int\ comparedTo(sampleSolution)
+comment3.params=
+comment3.target=void\ generateSolution()
+comment4.params=
+comment4.target=double\ getUtility()
+comment5.params=
+comment5.target=double\ getWeight()
+comment6.params=
+comment6.target=int\ getSize()
+numComments=7

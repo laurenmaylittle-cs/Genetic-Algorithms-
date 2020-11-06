@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Example
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=popKnapsack\ bestUtilityUnder500kg
+comment2.target=int\ checkBest(PopKnap,\ double)
+comment3.params=popKnapsack\ limit
+comment3.target=int\ checkUnder(PopKnap,\ double)
+comment4.params=solution2
+comment4.target=double[]\ getFitness(boolean[])
+numComments=5

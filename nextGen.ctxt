@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=nextGen
+comment1.params=popKS\ popCount
+comment1.target=PopKnap\ setNextGen(PopKnap,\ int)
+numComments=2

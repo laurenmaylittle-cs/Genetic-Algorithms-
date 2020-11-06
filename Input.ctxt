@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Input
+comment1.params=other
+comment1.target=int\ compareTo(Input)
+comment2.params=
+comment2.target=void\ generateInput()
+comment3.params=
+comment3.target=double\ getFitness()
+comment4.params=
+comment4.target=int\ getSize()
+numComments=5

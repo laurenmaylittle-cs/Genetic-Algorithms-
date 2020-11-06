@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=PopKnap
+comment1.params=popKnapSize\ init
+comment1.target=PopKnap(int,\ boolean)
+comment2.params=
+comment2.target=int\ popSizeKS()
+numComments=3
