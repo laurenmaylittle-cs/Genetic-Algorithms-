@@ -1,5 +1,5 @@
 This project consists of 2 problems. 
-The first proble is a black box function that takes 20 real valued numbers as input. The function
+The first problem is a black box function that takes 20 real valued numbers as input. The function
 has a unique minimum fitness of 0 for a specific input. The aim was to write a genetic algorithm to find the minimum value. (assumed to be between -5.0 and +5.0)
 The second is a version of the knapsack problem. The idea is that you want to
 pack a bag. You have 100 items that you would like to take with you. Each item has a utility value
